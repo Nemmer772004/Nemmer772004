@@ -21,7 +21,6 @@
 |----------|-------------|
 | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) | [Python](https://www.python.org) – Scripting, AI/ML, automation |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | [TypeScript](https://www.typescriptlang.org) – Strongly‑typed JS superset for backend (NestJS) |
-| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) | [Dart](https://dart.dev) – Programming language for Flutter apps |
 | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) | [SQL](https://www.mysql.com) – Query language for relational databases |
 
 ---
@@ -48,12 +47,6 @@
 
 ---
 
-### 📱 **Mobile Development**
-| Tool | Description |
-|------|-------------|
-| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) | [Flutter](https://flutter.dev) – Cross-platform mobile development |
-
----
 
 ### ☁️ **Cloud & Database**
 | Tool | Description |
