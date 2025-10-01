@@ -27,7 +27,6 @@
 | Tool | Description |
 |------|-------------|
 | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) | [PyTorch](https://pytorch.org) – Deep Learning framework |
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | [TensorFlow](https://www.tensorflow.org/) – Machine Learning by Google |
 | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) | [OpenCV](https://opencv.org) – Computer Vision |
 
 
@@ -36,7 +35,6 @@
 |------|-------------|
 | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) | [NestJS](https://nestjs.com) – Backend framework using TypeScript |
 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) | [Node.js](https://nodejs.org) – JS runtime for NestJS |
-| ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D) | [Vue.js](https://vuejs.org) – Frontend framework |
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) |
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) |
 
