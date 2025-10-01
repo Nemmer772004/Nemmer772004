@@ -2,9 +2,8 @@
 <h3 align="center">Student Developer | Passionate about AI, Web, and System Integration</h3>
 
 <p align="center">
-  <img src="https://github.com/Nemmer772004/Nemmer772004/blob/main/hinhhha.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/Nemmer772004/Nemmer772004/main/hinhhha.gif" width="300"/>
 </p>
-
 ---
 
 - 🎓 I'm a final-year student at **CNTT 16-05 - [Đại học Đại Nam](https://dainam.edu.vn/vi)**
