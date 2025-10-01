@@ -2,7 +2,7 @@
 <h3 align="center">Student Developer | Passionate about AI, Web, and System Integration</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nemmer772004/Nemmer772004/main/hinhhha.gif" width="1000"/>
+  <img src="https://raw.githubusercontent.com/Nemmer772004/Nemmer772004/main/hinhhha.gif" width="1400"/>
 </p>
 ---
 
