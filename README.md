@@ -7,7 +7,7 @@
 
 ---
 
-- 🎓 I'm a final-year student at **CNTT1605 - Đại học ...**
+- 🎓 I'm a final-year student at **CNTT1605 - [Đại học Đại Nam](https://dainam.edu.vn/vi)**
 - 🔭 I’m currently working on my graduation thesis:
   > 💡 _"Building an e-commerce web system integrated with AI security monitoring"_
 - 🧠 I’m learning and working with:
