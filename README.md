@@ -2,7 +2,7 @@
 <h3 align="center">Student Developer | Passionate about AI, Web, and System Integration</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
+  <img src="https://www.instagram.com/nemmer_2004/reel/DPCRGZfgbcv/" width="300"/>
 </p>
 
 ---
