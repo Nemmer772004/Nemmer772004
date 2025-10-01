@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nemmer772004/Nemmer772004/main/hinhhha.gif" />
 </p>
----
 
 - 🎓 I'm a final-year student at **CNTT 16-05 - [Đại học Đại Nam](https://dainam.edu.vn/vi)**
 - 🔭 I’m currently working on my graduation thesis:
@@ -12,7 +11,6 @@
 - 🧠 I’m learning and working with:
   - AI/ML, Web Fullstack, Mobile, DevOps
 
----
 
 ## 🗣️ Programming Languages
 
@@ -22,7 +20,6 @@
 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | [TypeScript](https://www.typescriptlang.org) – Strongly‑typed JS superset for backend (NestJS) |
 | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) | [SQL](https://www.mysql.com) – Query language for relational databases |
 
----
 
 ## 🚀 Tech Stack
 
@@ -33,7 +30,6 @@
 | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | [TensorFlow](https://www.tensorflow.org/) – Machine Learning by Google |
 | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) | [OpenCV](https://opencv.org) – Computer Vision |
 
----
 
 ### 🌐 **Web Development**
 | Tool | Description |
@@ -44,7 +40,6 @@
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) |
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) |
 
----
 
 ### 🔌 API & Tools
 
@@ -53,7 +48,6 @@
 | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) | [Postman](https://www.postman.com) – Tool for API development, testing & documentation |
 | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) | [GraphQL](https://graphql.org) – API query language used for efficient data fetching |
 
----
 
 ### ☁️ **Cloud & Database**
 | Tool | Description |
@@ -70,7 +64,6 @@
 | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | [Docker](https://www.docker.com) – Containerization platform |
 | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | [Git](https://git-scm.com) – Version control system |
 
----
 
 ## 📫 Contact Me
 
@@ -89,7 +82,6 @@
   </a>
 </p>
 
----
 
 ## 📊 GitHub Stats
 
@@ -98,6 +90,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemmer772004&layout=compact&theme=radical" width="300"/>
 </p>
 
----
 
 > “Code with purpose. Build with passion.” 🚀
