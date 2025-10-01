@@ -47,6 +47,14 @@
 
 ---
 
+### 🔌 API & Tools
+
+| Tool | Description |
+|------|-------------|
+| ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) | [Postman](https://www.postman.com) – Tool for API development, testing & documentation |
+| ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) | [GraphQL](https://graphql.org) – API query language used for efficient data fetching |
+
+---
 
 ### ☁️ **Cloud & Database**
 | Tool | Description |
