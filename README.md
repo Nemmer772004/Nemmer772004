@@ -8,11 +8,11 @@
 
 ---
 
-- 🎓 I'm a final-year student at **CNTT1605 - Đại học ...**
+- 🎓 I'm a final-year student at **CNTT1605 - Đại học Đại Nam**
 - 🔭 I’m currently working on my graduation thesis:
   > 💡 _"Building an e-commerce web system integrated with AI security monitoring"_
 - 🧠 I’m learning and working with:
-  - AI/ML, Web Fullstack, Mobile, DevOps
+  - AI/ML, Web Fullstack, DevOps
 
 ---
 
@@ -47,13 +47,6 @@
 | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D) | [Vue.js](https://vuejs.org) – Progressive JS Framework |
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) |
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) |
-
----
-
-### 📱 **Mobile Development**
-| Tool | Description |
-|------|-------------|
-| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) | [Flutter](https://flutter.dev) – Cross-platform mobile development |
 
 ---
 
